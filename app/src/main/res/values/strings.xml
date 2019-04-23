@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaskAndroid</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="string_click_to_load">Hello world! Android!</string>
+    <string name="string_getting_json_title">Waiting</string>
+    <string name="string_getting_json_message">Load</string>
+    <string name="string_some_thing_wrong">ooops</string>
+    <string name="string_internet_connection_not_available">Internet is not</string>
+</resources>
